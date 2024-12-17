@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NodoAVL
+comment1.params=juguete
+comment1.target=NodoAVL(Juguete)
+comment2.params=
+comment2.target=Juguete\ getJuguete()
+comment3.params=
+comment3.target=NodoAVL\ getIzquierdo()
+comment4.params=izquierdo
+comment4.target=void\ setIzquierdo(NodoAVL)
+comment5.params=
+comment5.target=NodoAVL\ getDerecho()
+comment6.params=derecho
+comment6.target=void\ setDerecho(NodoAVL)
+comment7.params=
+comment7.target=int\ getAltura()
+comment8.params=altura
+comment8.target=void\ setAltura(int)
+numComments=9

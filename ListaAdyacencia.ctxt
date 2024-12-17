@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ListaAdyacencia
+comment1.params=
+comment1.target=ListaAdyacencia()
+comment2.params=juguete
+comment2.target=void\ agregarAdyacencia(Juguete)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
